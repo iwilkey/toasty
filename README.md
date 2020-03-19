@@ -2,15 +2,18 @@
 A python video game designed by eight 3rd-8th grade kids.
 
 The project started January 2nd and three months laster, a group of awesome kids, with the help
-of two mentors, made a video game start to finish.
+of two mentors, programmed a video game start to finish.
 
 They made everything! From the story, to the art, to the gameplay (Except the music), they 
 all grouped together and made this happen.
 
 # Game Information
 Name: Toasty Visits Area 51
+
 Language: Python
+
 Libraries: Arcade and random
+
 Controls: Arrow keys and space bar
 
 # How to play
@@ -23,3 +26,26 @@ Controls: Arrow keys and space bar
 	- $ python3 app.py
 
 Have fun!
+
+# Credits
+
+Mentors
+------
+Ian Wilkey
+
+Lauryn Manoni
+
+The Developers
+------
+
+Alexander Gonzalez
+
+Courtney Mitchell
+
+Lindsay Mitchell
+
+Lilian Phillips
+
+Christopher Rodriguez
+
+Victoria Serna
